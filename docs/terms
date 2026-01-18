@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions - iBuyHalal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f7;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            font-size: 32px;
+        }
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        h2 {
+            color: #1a1a1a;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 24px;
+            border-bottom: 2px solid #34A853;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #333;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul, ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .last-updated {
+            color: #999;
+            font-size: 12px;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .contact-info p {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #4285F4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .warning {
+            background-color: #f8d7da;
+            padding: 15px;
+            border-left: 4px solid #dc3545;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms and Conditions</h1>
+        <p class="subtitle">iBuyHalal - Halal Product Verification App</p>
+        <p class="last-updated">Last Updated: January 17, 2025</p>
+
+        <div class="highlight">
+            <p><strong>Please read these Terms and Conditions carefully before using the iBuyHalal mobile application.</strong></p>
+        </div>
+
+        <h2>1. Agreement to Terms</h2>
+        <p>By downloading, installing, accessing, or using the iBuyHalal mobile application ("App"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.</p>
+        <p>These Terms constitute a legally binding agreement between you and iBuyHalal ("we," "us," or "our").</p>
+
+        <h2>2. Description of Service</h2>
+        <p>iBuyHalal is a mobile application designed to help users identify whether food products are halal (permissible), haram (forbidden), or mushbooh (doubtful) according to Islamic dietary guidelines. The App provides the following features:</p>
+        <ul>
+            <li><strong>Barcode Scanning:</strong> Scan product barcodes to identify ingredients and determine halal status</li>
+            <li><strong>OCR Technology:</strong> Extract ingredients from product packaging using text scanning</li>
+            <li><strong>Ingredient Analysis:</strong> Match ingredients against a database of halal/haram ingredients</li>
+            <li><strong>Scan History:</strong> View your previous product scans and determinations</li>
+            <li><strong>Statistics:</strong> Track your scanning activity and halal status determinations</li>
+        </ul>
+
+        <h2>3. Important Disclaimer</h2>
+        <div class="warning">
+            <p><strong>CRITICAL DISCLAIMER:</strong> The halal status determinations provided by this App are for <strong>informational purposes only</strong> and are not a substitute for professional halal certification or religious guidance.</p>
+            <ul style="margin-top: 10px;">
+                <li>We do not guarantee the accuracy, completeness, or reliability of any information provided by the App</li>
+                <li>The final determination of whether a product is halal remains the <strong>sole responsibility of the consumer</strong></li>
+                <li>Always verify with certified halal authorities, Islamic scholars, or halal certification bodies when in doubt</li>
+                <li>Product formulations may change, and our database may not always reflect the most current ingredient lists</li>
+                <li>Regional variations in product ingredients may affect halal status</li>
+                <li>We are not responsible for any decisions made based on information provided by the App</li>
+            </ul>
+        </div>
+
+        <h2>4. Eligibility</h2>
+        <p>You must be at least 13 years of age to use this App. By using the App, you represent and warrant that you are at least 13 years old and have the legal capacity to enter into these Terms.</p>
+        <p>If you are under 18, you represent that you have obtained parental or guardian consent to use the App.</p>
+
+        <h2>5. User Responsibilities</h2>
+        <p>You agree to:</p>
+        <ul>
+            <li>Use the App only for lawful purposes and in accordance with these Terms</li>
+            <li>Not use the App in any way that could damage, disable, overburden, or impair the App or interfere with any other party's use of the App</li>
+            <li>Not attempt to gain unauthorized access to any part of the App, other accounts, computer systems, or networks connected to the App</li>
+            <li>Not reverse engineer, decompile, or disassemble the App or attempt to extract the source code</li>
+            <li>Not use automated systems (bots, scrapers, etc.) to access the App</li>
+            <li>Not remove, alter, or obscure any proprietary notices, labels, or marks on the App</li>
+            <li>Use the App's information responsibly and verify critical determinations with appropriate authorities</li>
+        </ul>
+
+        <h2>6. Intellectual Property Rights</h2>
+        <p>The App, including its original content, features, functionality, design, logos, and trademarks, is owned by iBuyHalal and is protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.</p>
+        <p>You are granted a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes in accordance with these Terms.</p>
+        <p>You may not:</p>
+        <ul>
+            <li>Copy, modify, or create derivative works of the App</li>
+            <li>Distribute, sublicense, lease, rent, or sell the App or any part thereof</li>
+            <li>Use the App for any commercial purpose without our express written consent</li>
+            <li>Remove any copyright or other proprietary notices from the App</li>
+        </ul>
+
+        <h2>7. Third-Party Services and Content</h2>
+        <p>The App may use or integrate with third-party services, including:</p>
+        <ul>
+            <li><strong>Firebase Analytics (Google):</strong> For anonymous usage analytics</li>
+            <li><strong>GitHub:</strong> For downloading product databases</li>
+            <li><strong>Product Databases:</strong> Information sourced from publicly available product databases</li>
+        </ul>
+        <p>We are not responsible for the availability, accuracy, or content of third-party services. Your use of third-party services is subject to their respective terms and conditions and privacy policies.</p>
+
+        <h2>8. Permissions</h2>
+        <p>The App requires the following permissions:</p>
+        <ul>
+            <li><strong>Camera Access:</strong> Required to scan product barcodes and ingredient lists. Camera access is used solely for this purpose, and no images are stored or transmitted.</li>
+        </ul>
+        <p>You can revoke these permissions at any time through your device settings, though doing so may limit or prevent certain features from functioning.</p>
+
+        <h2>9. Data and Privacy</h2>
+        <p>Your use of the App is also governed by our Privacy Policy, which is incorporated into these Terms by reference. Please review our Privacy Policy to understand how we collect, use, and protect your information.</p>
+        <p>By using the App, you consent to the collection and use of information as described in our Privacy Policy.</p>
+
+        <h2>10. Updates and Modifications</h2>
+        <p>We reserve the right to:</p>
+        <ul>
+            <li>Modify, update, or discontinue the App or any part thereof at any time</li>
+            <li>Update the product database and ingredient information</li>
+            <li>Add, remove, or modify features and functionality</li>
+            <li>Release updates, patches, or new versions of the App</li>
+        </ul>
+        <p>You may be required to update the App to continue using certain features. We are not obligated to provide updates or support for older versions of the App.</p>
+
+        <h2>11. Availability and Service Interruptions</h2>
+        <p>We strive to provide continuous access to the App, but we do not guarantee that the App will be available at all times. The App may be unavailable due to:</p>
+        <ul>
+            <li>Maintenance, updates, or technical issues</li>
+            <li>Network connectivity problems</li>
+            <li>Force majeure events</li>
+            <li>Other circumstances beyond our control</li>
+        </ul>
+        <p>We are not liable for any loss or damage resulting from App unavailability.</p>
+
+        <h2>12. Limitation of Liability</h2>
+        <div class="warning">
+            <p><strong>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL IBUYHALAL, ITS DEVELOPERS, AFFILIATES, OR LICENSORS BE LIABLE FOR:</strong></p>
+            <ul style="margin-top: 10px;">
+                <li>Any indirect, incidental, special, consequential, or punitive damages</li>
+                <li>Loss of profits, revenue, data, or use</li>
+                <li>Any decisions made based on information provided by the App</li>
+                <li>Any health, dietary, or religious consequences resulting from use of the App</li>
+                <li>Errors, inaccuracies, or omissions in the product database or ingredient information</li>
+                <li>Any damages resulting from reliance on halal status determinations provided by the App</li>
+            </ul>
+        </div>
+        <p>Our total liability to you for all claims arising from or related to the App shall not exceed the amount you paid to download the App, or if the App is free, zero dollars ($0).</p>
+
+        <h2>13. Warranty Disclaimer</h2>
+        <p><strong>THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:</strong></p>
+        <ul>
+            <li>Warranties of merchantability</li>
+            <li>Fitness for a particular purpose</li>
+            <li>Non-infringement</li>
+            <li>Accuracy, completeness, or reliability of information</li>
+            <li>Uninterrupted or error-free operation</li>
+        </ul>
+        <p>We do not warrant that the App will meet your requirements, be available on an uninterrupted basis, be secure or error-free, or that defects will be corrected.</p>
+
+        <h2>14. Indemnification</h2>
+        <p>You agree to indemnify, defend, and hold harmless iBuyHalal, its developers, affiliates, officers, directors, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including attorney's fees) arising from:</p>
+        <ul>
+            <li>Your use of the App</li>
+            <li>Your violation of these Terms</li>
+            <li>Your violation of any third-party rights</li>
+            <li>Any decisions or actions taken based on information provided by the App</li>
+        </ul>
+
+        <h2>15. Termination</h2>
+        <p>We reserve the right to terminate or suspend your access to the App immediately, without prior notice or liability, for any reason, including:</p>
+        <ul>
+            <li>Violation of these Terms</li>
+            <li>Fraudulent, abusive, or illegal activity</li>
+            <li>Request by law enforcement or government authorities</li>
+        </ul>
+        <p>Upon termination, your right to use the App will cease immediately. You may also stop using the App at any time by uninstalling it from your device.</p>
+
+        <h2>16. Governing Law and Dispute Resolution</h2>
+        <p>These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the App is operated, without regard to its conflict of law provisions.</p>
+        <p>Any disputes arising from or relating to these Terms or the App shall be resolved through good faith negotiations. If a dispute cannot be resolved through negotiations, it shall be subject to the exclusive jurisdiction of the courts in the applicable jurisdiction.</p>
+
+        <h2>17. Severability</h2>
+        <p>If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.</p>
+
+        <h2>18. Entire Agreement</h2>
+        <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and iBuyHalal regarding the use of the App and supersede all prior agreements and understandings.</p>
+
+        <h2>19. Changes to Terms</h2>
+        <p>We reserve the right to modify these Terms at any time. We will notify you of any material changes by:</p>
+        <ul>
+            <li>Posting the updated Terms on this page</li>
+            <li>Updating the "Last Updated" date</li>
+            <li>Providing notice through the App (if applicable)</li>
+        </ul>
+        <p>Your continued use of the App after any changes constitutes acceptance of the modified Terms. If you do not agree to the modified Terms, you must stop using the App.</p>
+
+        <h2>20. Contact Information</h2>
+        <div class="contact-info">
+            <p>If you have any questions about these Terms and Conditions, please contact us:</p>
+            <p><strong>App Name:</strong> iBuyHalal</p>
+            <p><strong>Bundle Identifier:</strong> com.ibuyhalal.ios (iOS) / com.ibuyhalal.android (Android)</p>
+            <p><strong>Email:</strong> <a href="mailto:legal@ibuyhalal.com">legal@ibuyhalal.com</a></p>
+            <p><strong>Support Email:</strong> <a href="mailto:support@ibuyhalal.com">support@ibuyhalal.com</a></p>
+        </div>
+
+        <h2>21. Acknowledgment</h2>
+        <div class="highlight">
+            <p>By using the iBuyHalal App, you acknowledge that:</p>
+            <ul style="margin-top: 10px;">
+                <li>You have read, understood, and agree to be bound by these Terms and Conditions</li>
+                <li>You understand that halal determinations are for informational purposes only</li>
+                <li>You will verify critical determinations with appropriate halal certification authorities</li>
+                <li>You assume all responsibility for decisions made based on App information</li>
+                <li>You will not hold iBuyHalal liable for any consequences resulting from use of the App</li>
+            </ul>
+        </div>
+
+        <p style="margin-top: 40px; text-align: center; color: #999; font-size: 12px;">
+            © 2025 iBuyHalal. All rights reserved.
+        </p>
+    </div>
+</body>
+</html>
